@@ -79,4 +79,5 @@ dependencies {
 
     //viewmodel
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1")
+    implementation ("org.jetbrains.kotlin:kotlin-stdlib:<kotlin_version>")
 }

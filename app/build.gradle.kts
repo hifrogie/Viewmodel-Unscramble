@@ -78,6 +78,6 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-tooling")
 
     //viewmodel
-    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1")
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.0")
     implementation ("org.jetbrains.kotlin:kotlin-stdlib:<kotlin_version>")
 }
